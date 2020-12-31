@@ -428,6 +428,7 @@ img.svg{
 .arlo_tm_hero_header_wrap .image_wrap img{
 	border-radius: 100%;
 	border: 8px solid rgba(255,255,255,.5);
+	margin-top: 50px;
 }
 .arlo_tm_hero_header_wrap .name_holder h3{
 	font-family: "Montserrat";
@@ -2392,7 +2393,7 @@ img.svg{
 	height: auto;
 	clear: both;
 	float: left;
-	padding: 30px 20px;
+	padding: 0px 20px;
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
